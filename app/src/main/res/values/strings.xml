@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">NFC Card Analyzer</string>
+    <string name="header_text">Analizador de Tarjetas NFC</string>
+    <string name="status_scanning">Escáner Activo: Acerque una tarjeta…</string>
+    <string name="status_waiting">Escáner en espera…</string>
+    <string name="status_not_available">Hardware NFC no detectado</string>
+    <string name="status_detected">¡Tarjeta Identificada!</string>
+    <string name="btn_start_scan">Comenzar Escaneo</string>
+    <string name="btn_stop_scan">Detener Escaneo</string>
+    <string name="label_frequency">Frecuencia: HF (13.56 MHz)</string>
+    <string name="label_uid">UID: %s</string>
+    <string name="label_size">Tamaño: %s</string>
+    <string name="label_tech">Tecnologías: %s</string>
+    <string name="btn_copy">Copiar UID</string>
+    <string name="btn_emulate">Emular</string>
+    <string name="btn_stop_emulate">Detener Emulación</string>
+    <string name="btn_save">Guardar en Historial</string>
+    <string name="history_title">Historial de Tarjetas:</string>
+    <string name="msg_copied">UID copiado al portapapeles</string>
+    <string name="msg_saved">Guardada en historial</string>
+    <string name="msg_emulation_on">Modo Emisión (HCE) Activado. UID del sistema activo.</string>
+    <string name="msg_emulation_off">Emulación desactivada</string>
+    <string name="unknown">Desconocido</string>
+    <string name="bytes">%s bytes</string>
+</resources>
